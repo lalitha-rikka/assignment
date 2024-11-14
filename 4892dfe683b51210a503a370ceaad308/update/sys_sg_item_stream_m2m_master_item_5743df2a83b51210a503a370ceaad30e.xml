@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="assignment Item Stream">9b43df2a83b51210a503a370ceaad30c</item_stream>
+        <master_item display_value="assignment master_item">9b43df2a83b51210a503a370ceaad30d</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-14 10:16:43</sys_created_on>
+        <sys_id>5743df2a83b51210a503a370ceaad30e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="assignment" source="x_1545094_assignme">4892dfe683b51210a503a370ceaad308</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="assignment">4892dfe683b51210a503a370ceaad308</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_5743df2a83b51210a503a370ceaad30e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-14 10:16:43</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

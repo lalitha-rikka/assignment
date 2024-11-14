@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-14 10:16:08</sys_created_on>
+        <sys_id>f623db2a83b51210a503a370ceaad3f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1545094_assignme_assignment.x_1545094_assignme.user</sys_name>
+        <sys_package display_value="assignment" source="x_1545094_assignme">4892dfe683b51210a503a370ceaad308</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="assignment">4892dfe683b51210a503a370ceaad308</sys_scope>
+        <sys_security_acl display_value="x_1545094_assignme_assignment">3e23db2a83b51210a503a370ceaad3f2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f623db2a83b51210a503a370ceaad3f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-14 10:16:08</sys_updated_on>
+        <sys_user_role display_value="x_1545094_assignme.user" name="x_1545094_assignme.user">a2a25fe683b51210a503a370ceaad387</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
